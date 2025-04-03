@@ -18,7 +18,16 @@ This README would normally document whatever steps are necessary to get your app
 
 ### Contribution guidelines ###
 
-* Writing tests
+* Writing testschetan@chetan-MS-7D46:~/redis$  git log
+commit 59791ce35d444e0303055d820207583dc9bb964c (HEAD -> main)
+Author: AbhishekShakyaChicMic <abhishekh.kumar@chicmicstudios.in>
+Date:   Thu Apr 3 17:23:57 2025 +0530
+
+    redis logic is writen in this project
+
+commit 25d677db825f2996298a799c958ad4447312ccff
+Author: AbhishekShakyaChicMic <abhishekh.kumar@chicmicstudios.in>
+Date:   Thu Apr 3 10:
 * Code review
 * Other guidelines
 
@@ -26,5 +35,4 @@ This README would normally document whatever steps are necessary to get your app
 
 * Repo owner or admin
 * Other community or team contact
-# ChatApp 
-# ChatApp
+# Todo Applications
